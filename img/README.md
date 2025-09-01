@@ -88,7 +88,7 @@
 
 ---
 
-📎 О проекте: [README_AI_AutoPublisher](../README.md)
+📎 О проекте: [ContentFlow Factory](../README.md)
 
 ---
 
